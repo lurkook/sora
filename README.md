@@ -5,7 +5,7 @@
 
 <h1 align="center">Sora</h1>
 
-UbiArt texture encoder for Wii games.
+UbiArt audio maker for Wii games.
 
 ### Features
 - Not-interlaced and interlaced support
