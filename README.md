@@ -5,7 +5,7 @@
 
 <h1 align="center">Sora</h1>
 
-UbiArt audio maker for Wii games.
+UbiArt audio maker for Wii/Wii U games.
 
 ### Features
 - Not-interlaced and interlaced support
